@@ -97,4 +97,4 @@ This project is licensed under the **MIT License**.
 
 ## ⭐ Acknowledgment
 
-Developed as part of an academic research project in collaboration with dental and AI/ML departments.
+Developed as part of an academic research project in collaboration with dental and AI/ML department (BVDU).
